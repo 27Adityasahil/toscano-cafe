@@ -124,7 +124,7 @@ const Footer: React.FC = () => {
           className="border-t border-gray-700 mt-12 pt-8 text-center"
         >
           <p className="text-gray-400">
-            © 2024 Toscano Cafe & Testro. All rights reserved. | Designed with ❤️ for food lovers
+            © 2025 Toscano Cafe & Restro. All rights reserved. | Designed with ❤️ for food lovers
           </p>
         </motion.div>
       </div>
